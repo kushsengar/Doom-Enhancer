@@ -118,22 +118,9 @@ bash
 Copy
 Edit
 npm run build
-📁 Folder Structure Overview
-css
-Copy
-Edit
-.
-├── app/
-│   ├── api/
-│   │   ├── mood-pattern/
-│   │   ├── quote-by-mood/
-│   │   └── quote-feedback/
-│   └── page.tsx        // Main dashboard
-├── components/
-│   ├── MoodPatternChart.tsx
-│   └── MoodQuote.tsx
-├── utils/
-│   └── firebase.ts
+
+--- 
+
 ✅ To-Do / Future Features
 Favorite Quotes page
 
