@@ -130,7 +130,7 @@ Weekly email with mood summary
 
 Calendar heatmap view
 
-🧑‍💻 Author
+🧑‍💻 Author :
 Built and enhanced by kush sengar with ❤️
 
 
